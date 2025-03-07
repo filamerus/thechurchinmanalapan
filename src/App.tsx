@@ -118,10 +118,15 @@ function App() {
       {/* Welcome Section */}
       <section className="bg-gray-50 py-16">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-8">Welcome to Our Church</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">W E L C O M E</h2>
           <p className="text-lg text-gray-600 text-center max-w-3xl mx-auto">
-            We are a community of believers dedicated to sharing the love of Christ and building meaningful relationships.
-            Whether you're seeking spiritual growth, fellowship, or simply curious about faith, you'll find a warm welcome here.
+            We warmly welcome all brothers and sisters in Christ, as well as guests and visitors of all backgrounds. We encourage you to visit us and feel free to get in touch.
+
+The church in Manalapan, New Jersey warmly welcomes you. We are believers in the Lord Jesus Christ who have personally received Him as our Savior. He is the most excellent and enjoyable Person. We love Him and endeavor to give Him the first place in all things. We rejoice to be cleansed by the blood of Jesus, God’s Son, born again of the Father’s divine life, and filled with the Holy Spirit.
+
+We highly treasure the Holy Bible as God’s revelation of Himself and of His eternal purpose. We hold the common faith which is revealed in the Bible and is common to all genuine believers.
+
+As is true of all believers in Christ, we are members of His one Body, the church. In order to practice the oneness of the Body with all the Christians in New Jersey, we meet as the church in Manalapan. We are in fellowship with over 2,000 local churches worldwide to express the one Body of Christ.
           </p>
         </div>
       </section>
@@ -178,7 +183,7 @@ function App() {
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm">
-            This page and all contents are Copyright © 2025 The Church in Oklahoma City (unless otherwise indicated). All Rights Reserved.
+            This page and all contents are Copyright © 2025 The Church in Manalapan (unless otherwise indicated). All Rights Reserved.
           </p>
         </div>
       </footer>
