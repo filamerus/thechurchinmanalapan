@@ -6,7 +6,7 @@ function App() {
 
   const accordionItems = [
     {
-      image: "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=1920",
+      image: "https://i.ytimg.com/vi/QyvJ1ZAhGiE/maxresdefault.jpg",
       title: "Sunday Morning Service",
       description: "Join us every Sunday at 10:00 AM for worship and fellowship"
     },
